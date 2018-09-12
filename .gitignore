@@ -4,4 +4,4 @@ bower_components
 test/bower_components
 test
 .editorconfig
-.package-lock.json
+package-lock.json
